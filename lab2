@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="news">
+	<meta name="keywords" content="sports">
+	<title>IND vs ZIM</title>
+</head>
+<body>
+	<div>
+		<a href="">Home</a>
+		<a href="">About</a>
+		<a href="">Sports</a>
+		<a href="">Politics</a>
+		<a href="">Films</a>
+	</div>
+	<div>
+		<h1>IND vs ZIM: Abhishek Sharma hits maiden T20I hundred in second match, becomes fastest Indian to record feat</h1>
+		<figcaption><img src="sports.gif" width="200px" height="200px" alt="sports_img"><figure>sports</figure></figcaption>
+	</div><br>
+	<div>
+		<b>India opener Abhishek Sharma slammed his maiden T20I hundred off 46 balls in his second outing against Zimbabwe at the Harare Sports Club in Harare on Sunday.
+
+		Walking out to bat after India won the toss, Abhishek got off to a watchful start after the dismissal of skipper Shubman Gill before bringing up his half-century in 33 balls.</b><br>
+		<i>Youngest Indians to score T20I hundred:</i>
+		<ol type="I">
+			<li>21y 279d – Yashasvi Jaiswal vs Nepal, 2023</li>
+			<li>23y 146d – Shubman Gill vs New Zealand, 2023</li>
+			<li>23y 156d – Suresh Raina vs South Africa, 2010</li>
+			<li>23y 307d – Abhishek Sharma vs Zimbabwe, 2024</li>
+		</ol>
+		<table border="1px">
+			<tr>
+				<th>Date</th>
+				<th>Time</th>
+				<th>Channel</th>
+			</tr>
+			<tr>
+				<td>15-10-2024</td>
+				<td>4:00pm</td>
+				<td rowspan="3">Star sports</td>
+			</tr>
+			<tr>
+				<td>16-10-2024</td>
+				<td>4:00pm</td>
+			</tr>
+			<tr>
+				<td>17-10-2024</td>
+				<td>4:00pm</td>
+			</tr>
+		</table><br><br>
+		Click here for releated news-<a href="https://indianexpress.com/article/sports/cricket/ind-vs-zim-abhishek-sharma-hundred-2nd-match-india-record-9438491/">Releated news</a><br><br>
+	</div>
+	<div>
+		<iframe width="885" height="487" src="https://www.youtube.com/embed/81LFwfOulLU" title="VIRAT KOHLI IN NEW BOOST AD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	</div>
+</body>
+</html>
